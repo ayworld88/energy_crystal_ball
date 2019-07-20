@@ -13,7 +13,7 @@
     <link rel="stylesheet" href="{{ url_for('static', filename='css/style.css') }}">
 </head>
 <body>
-
+      <!-- Header of the Website --> 
         <div class="row">
                 <div class="col-md-12 text-center">
                     <h1 id="header">Energy Crystal Ball</h1>
@@ -22,8 +22,16 @@
             </div>
         
         
-
-
+        <!-- Div for the Map -->
+        <div class="map-container">
+                <div id="map"></div>
+            </div>
+        <!-- Div for the Dropdown and sliders -->
+        <div class="col-md-5">
+                <div id="dropdown"></div>
+                <div id="slider"></div>
+                <div id="slider"></div>
+            </div>
     <script src="{{ url_for('static', filename='js/app.js') }}"></script>
 </body>
 </html>
