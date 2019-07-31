@@ -1,5 +1,4 @@
-
-var rawDataURL = '/data1';
+var rawDataURL = '/data4';
 var xField = 'Years';
 var yField = 'Coal_prod';
 // var x2Field = 'Years';
@@ -55,15 +54,15 @@ Plotly.d3.csv(rawDataURL, function(err, rawData) {
         },
         yaxis: {
             fixedrange: true,
-            title: 'Billions BTU',
+            title: 'Billion Btu',
             type: 'log'
         }
     };
 
-    Plotly.plot('graph', data, layout);
-    Plotly.addTraces('graph', trace2);
-    Plotly.addTraces('graph', trace3);
-    Plotly.addTraces('graph', trace4)
+    Plotly.plot('graph2', data, layout);
+    Plotly.addTraces("graph2", trace2);
+    Plotly.addTraces('graph2', trace3);
+    Plotly.addTraces('graph2', trace4)
 });
 
 
@@ -82,8 +81,7 @@ function prepData(rawData) {
         mode: 'lines',
         x: x,
         y: y,
-        name: 'Coal Production',
-        color: 'black'
+        name: 'Coal Production'
     }];
 }
 
@@ -102,8 +100,7 @@ function prepData2(rawData) {
         mode: 'lines',
         x: x2,
         y: y2,
-        name: 'Gas production',
-        color: 'rgb(219, 64, 82)'
+        name: 'Gas production'
     }];
 }
 
@@ -122,8 +119,7 @@ function prepData3(rawData) {
         mode: 'lines',
         x: x3,
         y: y3,
-        name: 'Oil production',
-        color: 'green'
+        name: 'Oil production'
     }];
 }
 
@@ -142,16 +138,15 @@ function prepData4(rawData) {
         mode: 'lines',
         x: x4,
         y: y4,
-        name: 'Renewable Energy production',
-        color: 'rgb(55, 128, 191)'
+        name: 'Renewable Energy production'
     }];
 }
 
-d3.csv("/data2", function(error, d) {
+d3.csv("/data3", function(error, d) {
     console.log(d);
 });
 
-Plotly.d3.csv('/data2', function (err, data) {
+Plotly.d3.csv('/data3', function (err, data) {
     // Create a lookup table to sort and regroup the columns of data,
     // first by Years, then by prodType:
     var lookup = {};
@@ -307,7 +302,7 @@ Plotly.d3.csv('/data2', function (err, data) {
     };
   
     // Create the plot:
-    Plotly.plot('myDiv', {
+    Plotly.plot('myDiv2', {
       data: traces,
       layout: layout,
       frames: frames,
