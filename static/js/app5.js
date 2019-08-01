@@ -100,7 +100,7 @@ function prepareData2(rawData) {
         mode: 'lines',
         x: x2,
         y: y2,
-        name: 'Texas Total Production'
+        name: 'California Total Consumption'
     }];
 }
 
@@ -119,7 +119,7 @@ function prepareData3(rawData) {
         mode: 'lines',
         x: x3,
         y: y3,
-        name: 'California Total Consumption'
+        name: 'Texas Total Production'
     }];
 }
 
