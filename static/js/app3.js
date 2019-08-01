@@ -47,7 +47,7 @@ Plotly.d3.csv(rawDataURL, function(err, rawData) {
     // var data = [trace1, trace2, trace3, trace4];
     // console.log(data);
     var layout = {
-        title: 'Energy production',
+        title: 'Energy Production',
         xaxis: {
             rangeselector: selectorOptions,
             rangeslider: {}
@@ -100,7 +100,7 @@ function prepData2(rawData) {
         mode: 'lines',
         x: x2,
         y: y2,
-        name: 'Gas production'
+        name: 'Gas Production'
     }];
 }
 
@@ -119,7 +119,7 @@ function prepData3(rawData) {
         mode: 'lines',
         x: x3,
         y: y3,
-        name: 'Oil production'
+        name: 'Oil Production'
     }];
 }
 
@@ -138,7 +138,7 @@ function prepData4(rawData) {
         mode: 'lines',
         x: x4,
         y: y4,
-        name: 'Renewable Energy production'
+        name: 'Renewable Energy Production'
     }];
 }
 
@@ -242,13 +242,14 @@ Plotly.d3.csv('/data3', function (err, data) {
     }
   
     var layout = {
+      title: 'Individual Energy Source Production vs Total Consumption',
       xaxis: {
-        title: 'Total Production',
+        title: 'Individual Energy Source Production (Billion Btu)',
         // range: [10000, 10000000],
         type: 'log'
       },
       yaxis: {
-        title: 'Total Consumption',
+        title: 'Total Consumption (Billion Btu)',
         type: 'log'
       },
       hovermode: 'closest',

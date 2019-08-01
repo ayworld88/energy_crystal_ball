@@ -47,7 +47,7 @@ Plotly.d3.csv(rawDataURL2, function(err, rawData) {
     // var data = [trace1, trace2, trace3, trace4];
     // console.log(data);
     var layout = {
-        title: 'Energy production',
+        title: 'Total Energy Production and Consumption in California and Texas',
         xaxis: {
             rangeselector: selectorOption,
             rangeslider: {}
@@ -100,7 +100,7 @@ function prepareData2(rawData) {
         mode: 'lines',
         x: x2,
         y: y2,
-        name: 'California Total Consumption'
+        name: 'Texas Total Production'
     }];
 }
 
@@ -119,7 +119,7 @@ function prepareData3(rawData) {
         mode: 'lines',
         x: x3,
         y: y3,
-        name: 'Texas Total Production'
+        name: 'California Total Consumption'
     }];
 }
 

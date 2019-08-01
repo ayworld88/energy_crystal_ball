@@ -63,6 +63,10 @@ with open('data/TC_states.json') as jsonfile:
 @app.route('/jsonfile')
 def jsonfile():
     return jsonify(TC_json)
+    
+
+
+
 
 if __name__ == '__main__':
     app.run()

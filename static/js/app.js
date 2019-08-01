@@ -55,7 +55,7 @@ Plotly.d3.csv(rawDataURL, function(err, rawData) {
         },
         yaxis: {
             fixedrange: true,
-            title: 'Billions BTU',
+            title: 'Billion Btu',
             type: 'log'
         }
     };
@@ -102,7 +102,7 @@ function prepData2(rawData) {
         mode: 'lines',
         x: x2,
         y: y2,
-        name: 'Gas production',
+        name: 'Renewable Energy Production',
         color: 'rgb(219, 64, 82)'
     }];
 }
@@ -122,7 +122,7 @@ function prepData3(rawData) {
         mode: 'lines',
         x: x3,
         y: y3,
-        name: 'Oil production',
+        name: 'Oil Production',
         color: 'green'
     }];
 }
@@ -142,7 +142,7 @@ function prepData4(rawData) {
         mode: 'lines',
         x: x4,
         y: y4,
-        name: 'Renewable Energy production',
+        name: 'Gas Production',
         color: 'rgb(55, 128, 191)'
     }];
 }
@@ -247,13 +247,14 @@ Plotly.d3.csv('/data2', function (err, data) {
     }
   
     var layout = {
+      title: 'Individual Energy Source Production vs Total Consumption',
       xaxis: {
-        title: 'Total Production',
+        title: 'Individual Energy Source Production (Billion Btu)',
         // range: [10000, 10000000],
         type: 'log'
       },
       yaxis: {
-        title: 'Total Consumption',
+        title: 'Total Consumption (Billion Btu)',
         type: 'log'
       },
       hovermode: 'closest',

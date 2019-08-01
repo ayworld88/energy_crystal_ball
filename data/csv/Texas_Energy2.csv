@@ -242,84 +242,84 @@ Years,prodValues,prodType,totalComp,totalProd,subType,state
 2038,8024796.316,Gas Production,12609561,14591703.46,Prediction,Texas
 2039,7486053.426,Gas Production,12628284.23,14317147.45,Prediction,Texas
 2040,7145516.671,Gas Production,12481078.1,14291718.47,Prediction,Texas
-1960,50155,Renewable Production,4416216,12058639,Actual,Texas
-1961,52023,Renewable Production,4447880,12208006,Actual,Texas
-1962,47721,Renewable Production,4640675,12357635,Actual,Texas
-1963,42718,Renewable Production,4894089,12693749,Actual,Texas
-1964,43884,Renewable Production,5012683,13123816,Actual,Texas
-1965,48967,Renewable Production,5212184,13319750,Actual,Texas
-1966,51980,Renewable Production,5557255,13954680,Actual,Texas
-1967,49944,Renewable Production,5879030,14492080,Actual,Texas
-1968,62939,Renewable Production,6268911,14918671,Actual,Texas
-1969,64351,Renewable Production,6656323,15411603,Actual,Texas
-1970,62757,Renewable Production,6921781,16540958,Actual,Texas
-1971,60471,Renewable Production,7233774,16610783,Actual,Texas
-1972,67560,Renewable Production,7623194,17208895,Actual,Texas
-1973,78102,Renewable Production,8241366,17050819,Actual,Texas
-1974,76691,Renewable Production,8093721,16502656,Actual,Texas
-1975,75872,Renewable Production,7511439,15583828,Actual,Texas
-1976,75965,Renewable Production,7835920,15124174,Actual,Texas
-1977,82566,Renewable Production,8475779,14716565,Actual,Texas
-1978,84175,Renewable Production,8941144,13652863,Actual,Texas
-1979,89721,Renewable Production,9308055,13741121,Actual,Texas
-1980,65819,Renewable Production,9385670,13294899,Actual,Texas
-1981,70520,Renewable Production,9147556,12864237,Actual,Texas
-1982,80452,Renewable Production,8471394,12176971,Actual,Texas
-1983,75817,Renewable Production,8406461,11524121,Actual,Texas
-1984,87064,Renewable Production,8946242,11822952,Actual,Texas
-1985,93532,Renewable Production,9011817,11748188,Actual,Texas
-1986,110360,Renewable Production,9007599,11381901,Actual,Texas
-1987,116905,Renewable Production,9240071,10842369,Actual,Texas
-1988,108936,Renewable Production,9811771,10860430,Actual,Texas
-1989,125459,Renewable Production,10093725,10536806,Actual,Texas
-1990,115294,Renewable Production,10272320,10578173,Actual,Texas
-1991,120330,Renewable Production,10278273,10605768,Actual,Texas
-1992,133852,Renewable Production,10445158,10460686,Actual,Texas
-1993,117228,Renewable Production,10554352,10248337,Actual,Texas
-1994,114097,Renewable Production,10879574,10325858,Actual,Texas
-1995,117889,Renewable Production,11070854,10230734,Actual,Texas
-1996,110535,Renewable Production,11832246,10245577,Actual,Texas
-1997,122666,Renewable Production,12237335,10197964,Actual,Texas
-1998,110071,Renewable Production,12418135,10122789,Actual,Texas
-1999,93994,Renewable Production,12077034,9523222,Actual,Texas
-2000,96071,Renewable Production,12420851,9681342,Actual,Texas
-2001,96535,Renewable Production,12200928,9506522,Actual,Texas
-2002,121028,Renewable Production,12508396,9272256,Actual,Texas
-2003,115457,Renewable Production,12295541,9284751,Actual,Texas
-2004,120813,Renewable Production,12333678,9157192,Actual,Texas
-2005,137517,Renewable Production,11858030,9383076,Actual,Texas
-2006,152232,Renewable Production,11864993,9701985,Actual,Texas
-2007,191764,Renewable Production,11774259,10296092,Actual,Texas
-2008,298470,Renewable Production,11251973,11305593,Actual,Texas
-2009,295329,Renewable Production,10883320,11072953,Actual,Texas
-2010,392977,Renewable Production,11681851,11387664,Actual,Texas
-2011,440763,Renewable Production,11885388,12546132,Actual,Texas
-2012,452930,Renewable Production,11944734,14159990,Actual,Texas
-2013,476268,Renewable Production,12723430,15645926,Actual,Texas
-2014,529818,Renewable Production,12733681,17599803,Actual,Texas
-2015,567922,Renewable Production,12886742,18029185,Actual,Texas
-2016,691225,Renewable Production,13089570,16962933,Actual,Texas
-2017,786173,Renewable Production,13365864,17573176,Actual,Texas
-2018,790577.4832,Renewable Production,12833600.18,18170167.33,Prediction,Texas
-2019,849590.8404,Renewable Production,12852128.71,18029690.54,Prediction,Texas
-2020,894341.9391,Renewable Production,12729009.55,18057921.7,Prediction,Texas
-2021,940458.2441,Renewable Production,12798825.72,17907936.34,Prediction,Texas
-2022,1005730.865,Renewable Production,12669489.85,17647836.46,Prediction,Texas
-2023,1019013.621,Renewable Production,12460054.14,17326647.16,Prediction,Texas
-2024,1051943.153,Renewable Production,12258208.22,16799567.03,Prediction,Texas
-2025,1075036.712,Renewable Production,12162773.03,16359032.8,Prediction,Texas
-2026,1091716.619,Renewable Production,11943806.87,16217620.54,Prediction,Texas
-2027,1113887.308,Renewable Production,11702106.01,16006734.55,Prediction,Texas
-2028,1142477.054,Renewable Production,11662489.51,15765621.66,Prediction,Texas
-2029,1176227.27,Renewable Production,11752740.19,15635588.91,Prediction,Texas
-2030,1226906.877,Renewable Production,11608482.92,15277264.32,Prediction,Texas
-2031,1254266.661,Renewable Production,11707857.57,15051815.37,Prediction,Texas
-2032,1284224.982,Renewable Production,11844610.93,14839112.91,Prediction,Texas
-2033,1311012.769,Renewable Production,11892254.11,14443896.28,Prediction,Texas
-2034,1342038.333,Renewable Production,11951870.36,14270154.57,Prediction,Texas
-2035,1370891.301,Renewable Production,12270022.86,14475529.29,Prediction,Texas
-2036,1399480.87,Renewable Production,12360605.34,14693895.32,Prediction,Texas
-2037,1423545.069,Renewable Production,12414414.56,14738656.62,Prediction,Texas
-2038,1449202.422,Renewable Production,12609561,14591703.46,Prediction,Texas
-2039,1460861.802,Renewable Production,12628284.23,14317147.45,Prediction,Texas
-2040,1472382.658,Renewable Production,12481078.1,14291718.47,Prediction,Texas
+1960,50155,Renewable Energy Production,4416216,12058639,Actual,Texas
+1961,52023,Renewable Energy Production,4447880,12208006,Actual,Texas
+1962,47721,Renewable Energy Production,4640675,12357635,Actual,Texas
+1963,42718,Renewable Energy Production,4894089,12693749,Actual,Texas
+1964,43884,Renewable Energy Production,5012683,13123816,Actual,Texas
+1965,48967,Renewable Energy Production,5212184,13319750,Actual,Texas
+1966,51980,Renewable Energy Production,5557255,13954680,Actual,Texas
+1967,49944,Renewable Energy Production,5879030,14492080,Actual,Texas
+1968,62939,Renewable Energy Production,6268911,14918671,Actual,Texas
+1969,64351,Renewable Energy Production,6656323,15411603,Actual,Texas
+1970,62757,Renewable Energy Production,6921781,16540958,Actual,Texas
+1971,60471,Renewable Energy Production,7233774,16610783,Actual,Texas
+1972,67560,Renewable Energy Production,7623194,17208895,Actual,Texas
+1973,78102,Renewable Energy Production,8241366,17050819,Actual,Texas
+1974,76691,Renewable Energy Production,8093721,16502656,Actual,Texas
+1975,75872,Renewable Energy Production,7511439,15583828,Actual,Texas
+1976,75965,Renewable Energy Production,7835920,15124174,Actual,Texas
+1977,82566,Renewable Energy Production,8475779,14716565,Actual,Texas
+1978,84175,Renewable Energy Production,8941144,13652863,Actual,Texas
+1979,89721,Renewable Energy Production,9308055,13741121,Actual,Texas
+1980,65819,Renewable Energy Production,9385670,13294899,Actual,Texas
+1981,70520,Renewable Energy Production,9147556,12864237,Actual,Texas
+1982,80452,Renewable Energy Production,8471394,12176971,Actual,Texas
+1983,75817,Renewable Energy Production,8406461,11524121,Actual,Texas
+1984,87064,Renewable Energy Production,8946242,11822952,Actual,Texas
+1985,93532,Renewable Energy Production,9011817,11748188,Actual,Texas
+1986,110360,Renewable Energy Production,9007599,11381901,Actual,Texas
+1987,116905,Renewable Energy Production,9240071,10842369,Actual,Texas
+1988,108936,Renewable Energy Production,9811771,10860430,Actual,Texas
+1989,125459,Renewable Energy Production,10093725,10536806,Actual,Texas
+1990,115294,Renewable Energy Production,10272320,10578173,Actual,Texas
+1991,120330,Renewable Energy Production,10278273,10605768,Actual,Texas
+1992,133852,Renewable Energy Production,10445158,10460686,Actual,Texas
+1993,117228,Renewable Energy Production,10554352,10248337,Actual,Texas
+1994,114097,Renewable Energy Production,10879574,10325858,Actual,Texas
+1995,117889,Renewable Energy Production,11070854,10230734,Actual,Texas
+1996,110535,Renewable Energy Production,11832246,10245577,Actual,Texas
+1997,122666,Renewable Energy Production,12237335,10197964,Actual,Texas
+1998,110071,Renewable Energy Production,12418135,10122789,Actual,Texas
+1999,93994,Renewable Energy Production,12077034,9523222,Actual,Texas
+2000,96071,Renewable Energy Production,12420851,9681342,Actual,Texas
+2001,96535,Renewable Energy Production,12200928,9506522,Actual,Texas
+2002,121028,Renewable Energy Production,12508396,9272256,Actual,Texas
+2003,115457,Renewable Energy Production,12295541,9284751,Actual,Texas
+2004,120813,Renewable Energy Production,12333678,9157192,Actual,Texas
+2005,137517,Renewable Energy Production,11858030,9383076,Actual,Texas
+2006,152232,Renewable Energy Production,11864993,9701985,Actual,Texas
+2007,191764,Renewable Energy Production,11774259,10296092,Actual,Texas
+2008,298470,Renewable Energy Production,11251973,11305593,Actual,Texas
+2009,295329,Renewable Energy Production,10883320,11072953,Actual,Texas
+2010,392977,Renewable Energy Production,11681851,11387664,Actual,Texas
+2011,440763,Renewable Energy Production,11885388,12546132,Actual,Texas
+2012,452930,Renewable Energy Production,11944734,14159990,Actual,Texas
+2013,476268,Renewable Energy Production,12723430,15645926,Actual,Texas
+2014,529818,Renewable Energy Production,12733681,17599803,Actual,Texas
+2015,567922,Renewable Energy Production,12886742,18029185,Actual,Texas
+2016,691225,Renewable Energy Production,13089570,16962933,Actual,Texas
+2017,786173,Renewable Energy Production,13365864,17573176,Actual,Texas
+2018,790577.4832,Renewable Energy Production,12833600.18,18170167.33,Prediction,Texas
+2019,849590.8404,Renewable Energy Production,12852128.71,18029690.54,Prediction,Texas
+2020,894341.9391,Renewable Energy Production,12729009.55,18057921.7,Prediction,Texas
+2021,940458.2441,Renewable Energy Production,12798825.72,17907936.34,Prediction,Texas
+2022,1005730.865,Renewable Energy Production,12669489.85,17647836.46,Prediction,Texas
+2023,1019013.621,Renewable Energy Production,12460054.14,17326647.16,Prediction,Texas
+2024,1051943.153,Renewable Energy Production,12258208.22,16799567.03,Prediction,Texas
+2025,1075036.712,Renewable Energy Production,12162773.03,16359032.8,Prediction,Texas
+2026,1091716.619,Renewable Energy Production,11943806.87,16217620.54,Prediction,Texas
+2027,1113887.308,Renewable Energy Production,11702106.01,16006734.55,Prediction,Texas
+2028,1142477.054,Renewable Energy Production,11662489.51,15765621.66,Prediction,Texas
+2029,1176227.27,Renewable Energy Production,11752740.19,15635588.91,Prediction,Texas
+2030,1226906.877,Renewable Energy Production,11608482.92,15277264.32,Prediction,Texas
+2031,1254266.661,Renewable Energy Production,11707857.57,15051815.37,Prediction,Texas
+2032,1284224.982,Renewable Energy Production,11844610.93,14839112.91,Prediction,Texas
+2033,1311012.769,Renewable Energy Production,11892254.11,14443896.28,Prediction,Texas
+2034,1342038.333,Renewable Energy Production,11951870.36,14270154.57,Prediction,Texas
+2035,1370891.301,Renewable Energy Production,12270022.86,14475529.29,Prediction,Texas
+2036,1399480.87,Renewable Energy Production,12360605.34,14693895.32,Prediction,Texas
+2037,1423545.069,Renewable Energy Production,12414414.56,14738656.62,Prediction,Texas
+2038,1449202.422,Renewable Energy Production,12609561,14591703.46,Prediction,Texas
+2039,1460861.802,Renewable Energy Production,12628284.23,14317147.45,Prediction,Texas
+2040,1472382.658,Renewable Energy Production,12481078.1,14291718.47,Prediction,Texas
