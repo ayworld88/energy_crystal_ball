@@ -191,10 +191,8 @@ Plotly.d3.csv('/data3', function (err, data) {
     for (i = 0; i < prodTypes.length; i++) {
       var data = firstYears[prodTypes[i]];
        // One small note. We're creating a single trace here, to which
-       // the frames will pass data for the different Yearss. It's
-       // subtle, but to avoid data reference problems, we'll slice
-       // the arrays to ensure we never write any new data into our
-       // lookup table:
+       // the frames will pass data for the different Yearss.
+       
       traces.push({
         name: prodTypes[i],
         x: data.x.slice(),
@@ -226,8 +224,7 @@ Plotly.d3.csv('/data3', function (err, data) {
   
     // Now create slider steps, one for each frame. The slider
     // executes a plotly.js API command (here, Plotly.animate).
-    // In this example, we'll animate to one of the named frames
-    // created in the above loop.
+
     var sliderSteps = [];
     for (i = 0; i < Yearss.length; i++) {
       sliderSteps.push({
